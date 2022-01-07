@@ -1,0 +1,8 @@
+date_of_call: "22:13:29-07.01.2022"
+function_name: "get_intelligence"
+function_args: "('https://superheroapi.com/api.php/2619421814940190', ['Hulk', 'Captain America', 'Thanos'])"
+function_kwargs: "{}"
+function_result: "Имя героя: Thanos
+Интелект: 100
+"
+
